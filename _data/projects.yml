@@ -9,7 +9,7 @@
     <a href="#" target="_blank" class="btn btn-dark mb-1"><i class="fas fa-align-right"></i> &nbsp Blog Post</a>
   tags: [modx, web] # A list of tags
 
-- name: Мой личный сайт
+- name: devopsme.ru
   id: pf
   img_src: /assets/img/devopsme.png
   description_less: Личный блог на Jekyll.
