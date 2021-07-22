@@ -7,11 +7,15 @@ description: Для клиентов.
 sitemap:
   priority: 1.0
 ---
-<p id="describe-text">Для клиентов.</p>
+<p id="describe-text">Общая информация для клиентов.</p>
 <br>
-This is the index page, describe yourself in few sentences here. Perhaps talk about what you do for living and what you do in your free time. Maybe even leave an [email@address.com](#) or a link to your [resume](#).
+<p id="describe-text">Что я умею делать</p>
+Привет! Меня зовут Артём и АйТи-инженер: 
+1. DevOps. Нужна автоматизация, построение цикла CI/CD - я могу помочь настроить процесс. Начиная от настройки серверов, заканчивая написанием документации для разработчиков. 
+2. Администрирование. Настройка принтеров, серверов и прочих вещей, роуетеров. 
+2. Разработка. Я разрабатываю telegram-ботов и сайты на modX и Django.
 
-Pudhina Fresh is free and open-source. Checkout [Pudhina Fresh](https://github.com/ritijjain/pudhina-fresh).
+
 
 <br>
 <br>
