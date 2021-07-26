@@ -54,7 +54,7 @@ blockquote {
 .post_wrapper {
   max-width: 80%;
   max-width: 800px;
-  margin: 60px auto;
+  /* margin: 60px auto; */
 }
 
 table {
